@@ -1,0 +1,16 @@
+name: dse-cal-data-science
+
+channels:
+  - conda-forge
+
+dependencies:
+  - pip:
+    - bs4
+    - tqdm
+    - notebook
+    - numpy
+    - datascience
+    - pyyaml
+    - nbformat
+    - nbclean
+    - -r ./requirements.txt
