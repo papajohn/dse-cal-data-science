@@ -8,3 +8,4 @@ ipywidgets>=7.0.0
 bqplot
 nbinteract==0.0.12
 git+https://github.com/data-8/Gofer-Grader.git
+seaborn
